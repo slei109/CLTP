@@ -4,7 +4,7 @@ This is the implementation of the paper Uncertainty-Aware Cross-Lingual Transfer
 
 
 ## Overview
-<img src="./fig/illustration.png" width="650"/>
+<img src="./fig/illustration_1.png" width="650"/>
 
 In this work we present CLTP, a self-training framework with pseudo-partial-labels to prevent error probagation.
 You can find more details of this work in our paper.
